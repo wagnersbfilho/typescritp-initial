@@ -2,8 +2,8 @@
 
 Projeto inicial de estudo:
 
-- Configura??o (tsconfig.json)
-- Vari?veis (var / let)
+- Configuração (tsconfig.json)
+- Variáveis (var / let)
 - Functions
 - Arrow Functions (lambda)
 - Custom Types
