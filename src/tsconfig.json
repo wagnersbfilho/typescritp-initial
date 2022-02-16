@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "ESNext", // "ES3" (default), "ES5", "ES6"/"ES2015", "ES2016", "ES2017" or "ESNext".
+      "module": "commonjs",
+      "sourceMap": true,
+      "outDir": "target" //diretório destino dos arquivos JS
+      //"allowJs": true,
+      //"useDefineForClassFields": true
+    }
+  }
